@@ -17,7 +17,7 @@
 
 <p>
 <p align="left">
-<a href="https://www.linkedin.com/in/amin-rais-aa1726249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nawi-husen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-nawi-husen-7b0a80244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nawi-husen" height="30" width="40" /></a>
 </p>
 </p>
 
