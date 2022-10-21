@@ -1,14 +1,26 @@
 <h1>Hello 👋! I'm Nawi Husen</h1>
 
 <p>
-Nice to meet you
-<br>I'm an Indonesian software engineer
-<br>I'm still a beginner and still trying to learn something new
+
+**Nice to meet you**
+
+**I'm an Indonesian Backend engineer with GO Language**
+
+**I'm still a beginner and still trying to learn something new**
+
+**I have learned Backend Engineer Skills at Alterra :fire:**
 </p>
 <br>
 <hr/>
 
-**I have learned Backend Engineer Skills at Alterra :fire:**
+<h3 align="left">You can know about me here</h3>
 
-**You can contact me here nawihusen@gmail.com:smile:** 
+<p>
+<p align="left">
+<a href="https://www.linkedin.com/in/amin-rais-aa1726249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nawi-husen" height="30" width="40" /></a>
+</p>
+</p>
+
+
+
 
