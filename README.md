@@ -11,11 +11,13 @@
 **I have learned Backend Engineer Skills at Alterra :fire:**
 
 **You can check my resume here [resume](https://docs.google.com/document/d/1ZSgdk_n1KxwmnJOg7A2tTPM8Z2TQjXr6wTWMYEF5YMY/edit)**
+
+**You can contact me here nawihusen@gmail.com**
 </p>
 <br>
 <hr/>
 
-<h3 align="left">You want to know about me here
+<h3 align="left">If you want to know more about me
 </h3>
 <p>
 <p align="left">
@@ -37,7 +39,7 @@
 </p>
 </div>
 
-
+**<h3 align="left">:gear:My GitHub Analytics:</h3>**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawihusen&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="nawihusen" /></p>
