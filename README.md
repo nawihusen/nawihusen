@@ -1,6 +1,6 @@
 <h1>Hello 👋! I'm Nawi Husen</h1>
 <p>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/638428/screenshots/3641004/media/9756e05977e724a3ac0bf104d486d06d.gif">
 **Nice to meet you**
 
 **I'm an Indonesian Backend engineer with GO Language**
