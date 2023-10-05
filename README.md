@@ -9,7 +9,7 @@
 
 **I have learned Backend Engineer Skills at Alterra :fire:**
 
-**You can check my resume here [resume](https://docs.google.com/document/d/1ZSgdk_n1KxwmnJOg7A2tTPM8Z2TQjXr6wTWMYEF5YMY/edit](https://drive.google.com/drive/u/0/folders/1KIi2nqw_w-IJ3X9FDNFgE9OMH71NVanr))**
+**You can check my resume here [resume](https://docs.google.com/document/d/1ZSgdk_n1KxwmnJOg7A2tTPM8Z2TQjXr6wTWMYEF5YMY/edit](https://drive.google.com/drive/u/0/folders/1KIi2nqw_w-IJ3X9FDNFgE9OMH71NVanr)**
 
 **You can contact me here nawihusen@gmail.com**
 </p>
